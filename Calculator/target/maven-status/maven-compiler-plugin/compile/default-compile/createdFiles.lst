@@ -1,0 +1,11 @@
+za\co\project\calculator\beans\LoginBean.class
+za\co\project\calculator\ejb\CalculationEJB.class
+za\co\project\calculator\model\Calculation.class
+za\co\project\calculator\beans\QueryBean.class
+za\co\project\calculator\HelloServlet.class
+za\co\project\calculator\ejb\AuditLogEJB.class
+za\co\project\calculator\model\UserRole.class
+za\co\project\calculator\model\User.class
+za\co\project\calculator\beans\CalculationBean.class
+za\co\project\calculator\ejb\UserEJB.class
+za\co\project\calculator\model\AuditLog.class
